@@ -30,7 +30,7 @@ fn main() {
         exit(0);
     }
 
-    wrc_cap(cap, 1, DEFAULT_CAP);
+    wrc_cap(cap, STDOUT, DEFAULT_CAP);
     
     wrc_destroy(cap);
 }

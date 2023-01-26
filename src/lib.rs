@@ -7,6 +7,9 @@ pub const MAX_PA: usize = 3;
 pub const MAX_IFACE: usize = 10;
 pub const MAX_IFNAME: usize = 16;
 
+pub const FILE: u8 = 0;
+pub const PRINT: u8 = 1;
+
 #[derive(Debug)]
 #[repr(C)]
 pub struct wc_sockaddr {

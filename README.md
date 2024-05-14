@@ -1,4 +1,4 @@
-# Libwrc-rc
+# Libwrc-rs
 **Unsafe Rust bindings for libwrc.**
 
 ## Installation

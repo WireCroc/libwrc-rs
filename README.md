@@ -9,12 +9,6 @@
 libwrc = "*"
 ```
 
-## Usage
-
-```rs
-extern crate cc;
-```
-
 ## Example
 
 ```rs
@@ -36,12 +30,6 @@ fn main() {
 }
 ```
 
-## Development
-
-```bash
-$ cargo test
-```
-
 ## Contributing
 
 1. Fork it (<https://github.com/wirecroc/libwrc-rs/fork>)
@@ -53,4 +41,3 @@ $ cargo test
 ## Contributors
 
 - [Nikolaycc](https://github.com/nikolaycc) - creator and maintainer
-- [PabloEscobar1337](https://github.com/PabloEscobar1337) - creator and maintainer
